@@ -7,7 +7,15 @@ Include:
   - Brand's products;
   - Simple/Advanced Search ;
   
-  This Software is developed in PHP/MySql, Javascript/Jquery and Datatables + plugins.
+  This Software is developed in: 
+  - PHP/MySql;
+  - Javascript/Jquery;
+  - Datatables + plugins;
+  - Bootstrap 3;
+  - CSS;
+  
+  Download the project, upload in mysql the file fbinv.sql and don't forget to change the paramenter in: phpfunc/database_connection.php
+  Please any suggestions or advice is accepted.
   
   Date 07/20/2018 
   - Working on Vendor 
